@@ -95,7 +95,8 @@ body {
 }
 #features h3 {
     color: #5D514A ;
-    font-weight: 700;
+    font-weight: 800;
+    font-size: 1.47em;
     text-transform: uppercase;
     font-family: 'Roboto Mono', monospace;
     text-align: left;
