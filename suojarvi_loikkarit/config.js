@@ -237,9 +237,9 @@ let sarov =
 
 let kirjeet = 
 "<h3 style='max-width:600px; margin-left:auto; margin-right:auto'>Kirjeet</h3>"+
-
+/* 
   '<div style="max-width:1200px; margin-left:auto; margin-right:auto"><img src="images/magnitogorsk2.jpg"></div>' +
-  "<p class='imageCredit' style='max-width:600px; margin-left:auto; margin-right:auto'>Magnitogorskin kaupunkia.</p>" +
+  "<p class='imageCredit' style='max-width:600px; margin-left:auto; margin-right:auto'>Magnitogorskin kaupunkia.</p>" + */
 "<p style='max-width:600px; margin-left:auto; margin-right:auto'>Suomesta sisällissodan jälkeen Neuvostoliiton puolelle muuttaneet ihmiset pitivät usein aktiivisesti yhteyttä sukulaisiinsa ja ystäviinsä. Koska suurin osa 1920-luvulla Neuvostoliittoon muuttaneista ihmisistä oli niin sanottuja punapakolaisia, oltiin Suomessa kiinnostuneita kirjeiden sisällöstä. Pelättiin, että kirjeiden välityksellä koordinoitaisiin Suomessa kielletyn ja Neuvostoliitosta käsin toimivan Suomen kommunistisen puolueen (SKP) toimintaa. Sen vuoksi Etsivän keskuspoliisi (EK) piti tarkkaa lukua paikkakunnilta mahdollisesti Neuvostoliittoon muuttaneista ihmisistä ja seurasi postiliikennettä Suomen ja Neuvostoliiton välillä.</p>"+
 '<div class="chocolat-parent">'+"<p style='max-width:700px; margin-left:auto; margin-right:auto'>"+
 '<a class="chocolat-image" href="images/kirjeet/kiertokirje1.jpg" title="Etsivän keskuspoliisin kiertokirje" data-srcset="images/kirjeet/kiertokirje1.jpg">'+
