@@ -94,13 +94,21 @@ let rajanylitys =
   '<p class="imageCredit"></p>' +
   "<p>Ronkainen päätyi töihin Kamensk-Uralskille. Olot eivät miellyttäneet, ja hän teki palautusanomuksen 1934.</p>" + 
   
-  "<h4>Raija Rajanylittäjä</h4>"+
-  "<p>Tässä voisi hyvin kertoa hieman tarkemmin kuinka rajanylitys tapahtui." + 
-  "Ensin rajan yli x kohdassa, yö vietettiin jossain ja toisena päivänä käveltiin Petroskoihin.</p>"+
-  "<h4>Lasse Loikkari</h4>"+
-  "<p>Tässä voisi hyvin kertoa hieman tarkemmin kuinka rajanylitys tapahtui.</p>" + 
-  "<p><blockquote>Suora lainaus kirjeestä Suora lainaus kirjeestä Suora lainaus kirjeestä</blockquote></p>" + 
+  "<h4>Jotkut yrittivät luvallista tietä</h4>"+
+  "<p>Neuvostoliittoon jo menneet tuttavat, ystävät ja sukulaiset houkuttelivat suojärveläisiä Neuvostoliittoon. Usein ohjeistettiin matkustuslupien hankkimisessa ja tarjouduttiin auttamaan. Esimerkiksi Petroskoissa asunut Tauno Partanen neuvoi Suojärvelle jäänyttä Väinö Partasta näin:" +
+  "<blockquote>minä hommaan täältä ensin maahan tulo luvan, sen saapi ne lähettää sen Viipuriin Neuvostoliiton "+
+  "onsulaattiin ja sinä hommaat maaherrasta passin ja viet sen konsulaattiin … Kun saat sen passin, "+
+  "niin elä myy mitään vaan tuo tänne täällä on puute yhdestä ja toisesta, koita hommata auton korjaus "+
+  "vehkeitä mikäli mahdollista vaikka kaikenlaisia,"+
+   "äläkä tee tuhmuutta, kuten minä että myin kaikki, tuleehan ne rautatievaunussa. </blockquote></p>" +
+  "<p>Ensin rajan yli x kohdassa, yö vietettiin jossain ja toisena päivänä käveltiin Petroskoihin.</p>"+
+  "<h4>Laittomasti meni useampi</h4>"+
+  "<p>Laiton rajan ylitys ei ollut helppoa. Puudosin lopulta elokuussa 1932 Anna Tanninen kertoo matkasta äidilleen:</p>" + 
+  "<p><blockquote>Heipä hei äiti, kaukainen tervehdys teille kaikille,"+  
+  "ensiksin alan kirjoittaa muutaman sanan tästä huvireissusta. Ollaan täällä valmista määrätyssä paikassa on ollut kolmas päivä. Matkalla meni melkein kuukausi. Ensiksi oltiin Niskusvaarassa yksi yö ja toinen yö oltiin Hyrsylässä, kolmas yö Kolatselässä ja Pallahessa kuusi päivää ei käynyt autot ei päästy Petrosavoskiin. Petrosavoskissa oltiin kymmenen päivää ja leirillä neljä yötä. Nyt ollaan täällä Puudosissa ja vapaisuudessa saadaan kirjoittaa ja käydä kaupungilla on vain 3 km matkaa.</blockquote></p>" + 
   "<p>Ensin rajan yli x kohdassa, yö vietettiin jossain ja toisena päivänä käveltiin Petroskoihin.</p>";
+
+
 
 let divChapter1 =
 
