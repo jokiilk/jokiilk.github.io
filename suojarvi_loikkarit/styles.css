@@ -118,6 +118,7 @@ body {
 #features .imageCredit {
   font-size: 0.9em;
   margin-top: -5px;
+  text-align: left;
 }
 #features .sub p{
   font-size: 0.9em;
@@ -387,4 +388,5 @@ blockquote:before {
 }
 blockquote p {
   display: inline;
+
 }

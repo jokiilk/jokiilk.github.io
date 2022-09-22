@@ -299,6 +299,19 @@ let rajanylitys_teksti =
 "<p style='max-width:600px; margin-left:auto; margin-right:auto'>Suomen puolella laiton rajaylitys oli rikos, josta annettiin aluksi sakkorangaistuksia ja myöhemmin 1930-luvulla lyhyitä vankeusrangaistuksia. Etsivän keskuspoliisi seurasi laitonta rajaliikennettä ja sen alaosastot raportoivat kuukausittain laittomista rajanylityksistä. Vuodesta 1930 kiihtynyt laiton rajanylitys oli kiivaimmillaan 1932. Esimerkiksi Sortavalan alaosasto raportoi elokuussa 1932, että Suojärveltä oli elokuun aikana n 110 aikuista ja lasta mennyt Neuvosto-Venäjän puolelle. Touko-heinäkuun aikana rajan oli ylittänyt n. 150 paikkakuntalaista.   Sortavalan alaosasto arveli elokuussa 1932, että Suojärveltä olivat enimmät"+' "venäjänkuumeen" saaneet menneet jo rajan yli.  EK arveli toukokuussa 1933, että 1932-1933 vuodenvaihteessa luvattomasti Neuvosto-Venäjälle siirtyneiden lukumäärä oli noussut toiselle kymmenelle tuhannelle, mitä se piti huippuna, minkä jälkeen uusien loikkareiden määrä tulisi vähenemään.  Koska rajanylitys oli laiton, oli suomalaisten viranomaisten vaikea antaa täsmällistä tietoa loikkareista. Etsivän keskuspoliisi arvioi 1930-1934 laittomasti Suomen ja Neuvostoliiton rajan ylittäneiden ihmisten kokonaismääräksi 10 000-15 000 henkeä.</p>'+  
 "<p style='max-width:600px; margin-left:auto; margin-right:auto'>Pohjois-Karjalan rajapitäjien kautta menivät myös monet muut muualta Suomesta saapuneet rajaloikkarit. Maarajan lisäksi raja ylitettiin myös vesiteitä käyttäen Salmen ja Impilahden pitäjistä. Laiton rajanylitys oli kausiluontoista ja oli vilkkaimmillaan maarajoilla loppukesän ja alkusyksyn aikaan, jolloin säät olivat vielä hyviä ja metsästä saattoi saada ravintoa. Laiton rajanylitys väheni talvikuukausina, jolloin ylittäminen oli lumen ja valvonnan vuoksi vaikeampaa. Kevättä kohti liikenne taas vilkastui. Esimerkiksi keväällä 1933 Sortavalan alaosasto raportoi rajaliikenteen jälleen vilkastuneen. Näistä suurin osa oli tullut rajakuntiin muualta Suomesta sillä EK:n mukaan: "+ '"Rajaseudulta ei monikaan enää halua Venäjälle mennä, mutta muualla maassa löytyy edelleen sellaisia, jotka eivät tiedä mitään Venäjän oloista tahi eivät usko mitä niistä on kerrottu."</p>'; 
 
+let stalinin_neuvostoliitto_teksti =
+"<h3 style='max-width:600px; margin-left:auto; margin-right:auto'>Stalinin Neuvostoliitto</h3>"+
+'<div style="max-width:1200px; margin-left:auto; margin-right:auto"><img src="images/stalin.jpg"></div>' +
+"<p class='imageCredit' style='max-width:600px; margin-left:auto; margin-right:auto'>Tähän voisi keksiä jonkun järkevämmän kuvituskuvan. Tekstin paikkaa pitää myös säätää.</p>" +
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Kun Josif Stalin savusti vastustajansa ulos puolueen ja maan johdosta 15. puoluekokouksessa, joka pidettiin joulukuussa 1927,  alkoi hän toteuttaa politiikkaa, jota on luonnehdittu sosialismiksi yhdessä maassa. Sen perusajatuksena oli, että kun bolshevikkien vallankumousta pelastavaa maailmanvallankumousta ei ollut näköpiirissä, oli sosialismia kehitettävä Neuvostoliitossa, jossa suurin osa väestöstä asui maaseudulla ja sai toimeentulonsa maataloudesta. Tämä merkitsi montaa erilaista toimenpidettä, jotka johtivat neuvostoyhteiskunnan totaaliseen mullistukseen – joidenkin mukaan jopa ylhäältä johdetuksi vallankumoukseksi.</p>"+
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Ensimmäisenä tehtävänä oli muuttaa maaseutu. Talonpojat pakotettiin yhteistiloille eli kolhooseihin. Näin itsenäinen talonpoika muutettiin maataloustyöläiseksi ja viljan myynnistä ulkomailla saatavilla tuloilla Neuvostoliitto investoi teollisuuteen. Vuonna 1928 aloitettu pakkokollektivisointi ajoi kuitenkin maan seuraavina vuosina lähes nälänhädän partaalle ja Ukrainassa todelliseen nälänhätään.</p>"+
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Pakkokollektivisointia täydensi kampanja, jonka tavoitteena oli hävittää varakkaiden talonpoikien eli kulakkien luokka. Bolshevikit pitivät kulakkeina kaikkia niitä talonpoikia, jotka käyttivät ulkopuolista työvoimaa sekä omistivat maatalouskoneita tai hevosia. Tällaisen määritelmän perusteella vangittiin vuosien 1929-1932 kulakkien vastaisen kampanjan aikana lähes kaksi miljoonaa ihmistä karkotettiin erityisasukkaina pakkotyöhön muun muassa Uralille ja Kazakstaniin.</p>"+ 
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Maatalouden mullistus ja suuret väestönsiirrot liittyivät myös teollistamiseen, joka oli uuden talouspoliittisen periaatteen – suunnitelmatalouden – keskeinen tavoite. Suunnitelmatalous pyrki valtion etukäteen määrittelemien tavoitteiden ja keskusjohteisesti ohjattujen tuotantolaitosten avulla tuottamaan kaiken maassa tarvittavan asian voimalaitoksista rautanauloihin. Suunnitelmatalous oli askel kohti sosialismia ja kommunismia, koska tuotantolaitokset olivat valtion omistuksessa. </p>"+  
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Talouden suunnitelmat oli mitoitettu viisivuotisiksi kausiksi. Ensimmäisen viisivuotiskauden aikana käynnistettiin joukko suuria rakennushankkeita, muun muassa voimalaitoksia, terästehtaita, auto- ja traktoritehtaita. Erityisesti Uralin alue oli monien jättimäisten hankkeiden kohde, jonka symboliksi nousi uusi, sosialistiseksi rakennettu kaupunki – Magnitogorsk. </p>"+
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Uralin alueen teollistaminen vaati suuret määrät työvoimaa, jota ei ollut alueella saatavilla. Työvoimaa yritettiin aluksi houkutella, sitten painostaa ja lopulta pakottaa. Työnteko oli normitettu, normit sidottu palkkaan ja muuhun toimeentuloon kuten asumiseen ja ruokaan. Normien ylittämisestä seurasi palkinto. Työtehokampanjat, iskutyö ja stahanovilaisuudeksi kutsuttu liike pyrkivät nostamaan työn tuottavuutta ja kiristämään työkuria. </p>"+
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Työtehokampanjat ulottuivat myös niihin, joiden oli jo lähtökohtaisesti sovitettava työllänsä rikoksia ja rikkomuksia, joita Neuvostoliitto oli lainsäädännössään ja erilaisin kampanjoin määritellyt. Nämä pakkotyöhön tuomitut henkilöt olivat osa Gulag-järjestelmää, jonka sisällä oli erilaisia ojennustyöleirejä, työsiirtoloita ja työvoimaa, jota turvallisuusviranomaiset vuokrasivat eteenpäin eri ministeriöiden alla oleville tuotantolaitoksille. Vaikka pakkotyötäkin määritteli sille omistetut työlainsäädännön asetukset, oli pakkotyössä työn ja ravinnon suhde vielä voimakkaammin sidottu. Epäonnistuminen normien saavuttamisessa johti kierteeseen, joka saattoi johtaa vakavaan aliravitsemukseen ja kuolemaan. </p>"+
+"<p style='max-width:600px; margin-left:auto; margin-right:auto'>Suunnitelmatalouden rinnalla kulki voimakas agitaatio- ja propagandatyö, jonka tarkoituksena oli saada väestö suunniteltujen tavoitteiden taakse sekä uskomaan, että arjen ongelmista huolimatta tulevaisuus tulisi olemaan valoisampi. Kommunistisen puolueen työntekijät järjestivät poliittista joukkotyötä, johon sisältyi kustannustoimintaa, kulttuuritapahtumia, luentoja ja muuta toimintaa, jonka tarkoituksena oli selittää maailman eri ilmiöitä ja ohjata parempaan elämään ja työn tuottavuuteen. Yhtenä vahvana propagandavälineenä olivat neuvostoelokuvat, jotka pyrkivät heijastamaan toivetta, minkä Stalin puki sanoiksi stahanovilaisten kokouksessa vuonna 1935: Elämästä on tullut parempaa, elämästä on tullut hauskempaa!</p>"; 
+
 
 
 
@@ -548,7 +561,7 @@ var config = {
       subcontentDiv: subcontent2,
       subImages: true,
       location: {
-        center: [33.72889808955676, 60.80000037562344],
+        center: [34.3420853954818, 61.78555844228482],
         zoom: 8.3,
         pitch: 30.00,
         bearing: 0.00
@@ -609,6 +622,33 @@ var config = {
       callback: "",
       onChapterEnter: [],
       onChapterExit: [],
+    },
+    {
+      id: "stalin_nl",
+      alignment: "full",
+      hidden: false,
+      title: "",
+      image: "",
+      description: "",
+      chapterDiv: stalinin_neuvostoliitto_teksti,
+      subhidden: true,
+      subcontentDiv: "",
+      subImages: false,
+      location: {
+        center: [60.57797, 56.87534],
+        zoom: 3.3,
+        pitch: 10.00,
+        bearing: 0.00
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [
+
+      ],
+      onChapterExit: [
+        
+      ],
     },
     {
       id: "gulag",
