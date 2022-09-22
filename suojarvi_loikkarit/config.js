@@ -104,58 +104,28 @@ let rajanylitys =
   "<p>Ensin rajan yli x kohdassa, yö vietettiin jossain ja toisena päivänä käveltiin Petroskoihin.</p>"+
   "<h4>Laittomasti meni useampi</h4>"+
   "<p>Laiton rajan ylitys ei ollut helppoa. Puudosin lopulta elokuussa 1932 Anna Tanninen kertoo matkasta äidilleen:</p>" + 
-  "<p><blockquote>Heipä hei äiti, kaukainen tervehdys teille kaikille,"+  
+  "<p>" +
+  '<blockquote>Heipä hei äiti, kaukainen tervehdys teille kaikille,' + 
   "ensiksin alan kirjoittaa muutaman sanan tästä huvireissusta. Ollaan täällä valmista määrätyssä paikassa on ollut kolmas päivä. Matkalla meni melkein kuukausi. Ensiksi oltiin Niskusvaarassa yksi yö ja toinen yö oltiin Hyrsylässä, kolmas yö Kolatselässä ja Pallahessa kuusi päivää ei käynyt autot ei päästy Petrosavoskiin. Petrosavoskissa oltiin kymmenen päivää ja leirillä neljä yötä. Nyt ollaan täällä Puudosissa ja vapaisuudessa saadaan kirjoittaa ja käydä kaupungilla on vain 3 km matkaa.</blockquote></p>" + 
   "<p>Ensin rajan yli x kohdassa, yö vietettiin jossain ja toisena päivänä käveltiin Petroskoihin.</p>";
 
 
-
-let divChapter1 =
-
-"<h3 >1934: Töissä Kamensk-Uralskilla</h3>" +'<div id="parallelogram"></div>'+  
-  '<img src="images/train.jpg">' +
-  '<p class="imageCredit">Työläiset saapuvat junalla työmaalle</p>' +
-  "<p>Ronkainen päätyi töihin Kamensk-Uralskille. Olot eivät miellyttäneet, ja hän teki palautusanomuksen 1934.</p>" + 
-  
-  "<p>SUomen Moskovan lähetystö käsitteli hakemusta, mutta päätyi hylkäämään sen. SUomen Moskovan lähetystö käsitteli hakemusta," + 
-  "mutta päätyi hylkäämään sen. SUomen Moskovan lähetystö käsitteli hakemusta, mutta päätyi hylkäämään sen.</p>";
-
-let subcontent1 =
-"<p>Voimme myös kertoa asiasta tarkemmin ja lisää. Klikkaa linkkiä, ja lue kiinnostava kertomus.</p>"+
-'<span style="font-size:15px;cursor:pointer;align:right" onclick="openNav('+ "'myOverlay1')" + '">&xrarr; Lue lisää</span>'+
-'<div id="myOverlay1" class="overlay">' +
-  '<a href="javascript:void(0)" class="closebtn" onclick="closeNav('+ "'myOverlay1')" + '">&times;</a>' +
-  '<div class="overlay-content">' +
-  '<div class="row">'+
-  "<p>Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.</p>" +
-      
-      '<div class="column">'+
-      "<p>Veli kulta, veikkoseni, kaunis kasvinkumppalini! Lähe nyt kanssa laulamahan, saa kera sanelemahan yhtehen yhyttyämme, kahta'alta käytyämme! Harvoin yhtehen yhymme, saamme toinen toisihimme näillä raukoilla rajoilla, poloisilla Pohjan mailla.</p>" +  
-
-      '</div>'+
-      '<div class="column">'+
-      "<p>Lyökämme käsi kätehen, sormet sormien lomahan, lauloaksemme hyviä, parahia pannaksemme, kuulla noien kultaisien, tietä mielitehtoisien, nuorisossa nousevassa, kansassa kasuavassa: noita saamia sanoja, virsiä virittämiä vyöltä vanhan Väinämöisen, alta ahjon Ilmarisen, päästä kalvan Kaukomielen, Joukahaisen jousen tiestä, Pohjan peltojen periltä, Kalevalan kankahilta.</p>" +
-
-      '</div>'+
-  '</div>'+
-  "<p>Niit' ennen isoni lauloi kirvesvartta vuollessansa; niitä äitini opetti väätessänsä värttinätä, minun lasna lattialla eessä polven pyöriessä, maitopartana pahaisna, piimäsuuna pikkaraisna. Sampo ei puuttunut sanoja eikä Louhi luottehia: vanheni sanoihin sampo, katoi Louhi luottehisin, virsihin Vipunen kuoli, Lemminkäinen leikkilöihin.</p>" +
-  "<p>Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.</p>" +
-  "<p>Veli kulta, veikkoseni, kaunis kasvinkumppalini! Lähe nyt kanssa laulamahan, saa kera sanelemahan yhtehen yhyttyämme, kahta'alta käytyämme! Harvoin yhtehen yhymme, saamme toinen toisihimme näillä raukoilla rajoilla, poloisilla Pohjan mailla.</p>" +  
-  "<p>Lyökämme käsi kätehen, sormet sormien lomahan, lauloaksemme hyviä, parahia pannaksemme, kuulla noien kultaisien, tietä mielitehtoisien, nuorisossa nousevassa, kansassa kasuavassa: noita saamia sanoja, virsiä virittämiä vyöltä vanhan Väinämöisen, alta ahjon Ilmarisen, päästä kalvan Kaukomielen, Joukahaisen jousen tiestä, Pohjan peltojen periltä, Kalevalan kankahilta.</p>" +
-  "<p>Niit' ennen isoni lauloi kirvesvartta vuollessansa; niitä äitini opetti väätessänsä värttinätä, minun lasna lattialla eessä polven pyöriessä, maitopartana pahaisna, piimäsuuna pikkaraisna. Sampo ei puuttunut sanoja eikä Louhi luottehia: vanheni sanoihin sampo, katoi Louhi luottehisin, virsihin Vipunen kuoli, Lemminkäinen leikkilöihin.</p>" +
-  "</div>" +
-"</div>";
 
 
   
 
 
 let divChapter2 =
-  "<h3>2.1.1938: Ronkainen vangittiin</h3>" +
+  "<h3>Tutkintovankeus</h3>" +
   '<img src="images/vanki.jpg">' +
   '<p class="imageCredit">Ukrainalainen Vira Zaborovska vankeudessa</p>' +
-  "<p>Ronkainen vangittiin ja vietiin Jekaterinburgiin. </p>" + 
-  "<p>Lyökämme käsi kätehen, sormet sormien lomahan, lauloaksemme hyviä, parahia pannaksemme, kuulla noien kultaisien, tietä mielitehtoisien, nuorisossa nousevassa, kansassa kasuavassa: noita saamia sanoja, virsiä virittämiä vyöltä vanhan Väinämöisen, alta ahjon Ilmarisen, päästä kalvan Kaukomielen, Joukahaisen jousen tiestä, Pohjan peltojen periltä, Kalevalan kankahilta. Niit' ennen isoni lauloi kirvesvartta vuollessansa; niitä äitini opetti väätessänsä värttinätä, minun lasna lattialla eessä polven pyöriessä, maitopartana pahaisna, piimäsuuna pikkaraisna. Sampo ei puuttunut sanoja eikä Louhi luottehia: vanheni sanoihin sampo, katoi Louhi luottehisin, virsihin Vipunen kuoli, Lemminkäinen leikkilöihin.</p>";
+  '<h4>Tutkintovankeus</h4>'+
+  '<p>Emil Kuvaja kirjoitti kotiin Svirstroilta 25.9.32, jonne hänet oli siirretty Petroskoin tutkintavankeudesta. </p>'+
+  '<p><blockquote>Tervehdys täältä kommunistisesta valtiosta sinne porvari Suomeen … Tulimme toissapäivänä tänne Petroskoista junalla matka kesti 12 ½ tuntia, mutta luullakseni olemme lähempänä rajaa kuin Petroskoissa sillä isä tietää Lotinapellon siitä on 19 km. Me olemme Karjalaisten kanssa tultu yhtämatkaa. Täällä on paljon tuttuja mutta paljon meni pohjoiseenkin päin Johansonnin Eedit jäi vielä leirille kyllä tuli vesi silmiin kun näki että me päästiin vapaaksi.</blockquote></p>'+
+  '<h4></h4>'+
+  '<p></p>'+
+  '<h4></h4>'+
+  '<p></p>';
 
   let subcontent2 =
   "<p>Huikeita kuvia Svirstroilta!</p>"+
@@ -189,7 +159,49 @@ let divChapter2 =
     '</a>'+
     '</div>'+
 '</div>';
- 
+
+let puudosi =
+  "<h3>Tuomiot</h3>" +
+  '<img src="images/vanki.jpg">' +
+  '<p class="imageCredit">Ukrainalainen Vira Zaborovska vankeudessa</p>' +
+  '<p>Loikkarit saivat yleensä pakkotyötuomion, jonka pituus vaihteli puolesta vuodesta kolmeen vuoteen Hilma Kotilainen kuvaili olojaan äidilleen Puudosin alueeseen kuuluvasta Kersonista 10.8.32 seuraavasti:</p>'+
+  '<p><blockquote>Tämä Kersonissa oloaika on sellaista karanteeni aikaa eli tutkintolaisaikaa se on puolivuotta ja sen ajan kun käyttäytyy siivosti niin sitten olemme maan kansalaisia Venäläisiä, ei me täällä olla vankina vaan ainoastaan valvonnan alaisia</blockquote></p>';
+
+
+  let divChapter1 =
+
+  "<h3 >Siirto pakkotyöhön työmaille</h3>" +
+    '<img src="images/train.jpg">' +
+    '<p class="imageCredit">Työläiset saapuvat junalla työmaalle</p>' +
+    "<p>Tutkintovankeuden jälkeen oli mahdollista kirjoittaa Suomeen. Useimmat ilmoittivat kotiin missä olivat ja kertoivat myös, keitä muita he matkan varrella olivat nähneet, ja mihin tuttavia oli siirretty kuten Emil Ovaskakin kirjeessään kertoo:</p>" + 
+    '<p><blockquote>…minä en ole voinut enemmin kirjoittaa kun ei ole ollut kirjoitus lupaa vaan nyt kun muutettiin Petrosavoskista 60 km toiseen työmaahan täällä on suuri kalkkkikivilouhimo ja minä olen kirvestöissä ja Hilja on leipomossa. Kyllä tässä maassa työtä riittää ja leipää ja täällä hän nuo näkyvät suojärveläiset olevankin vaan minä en tiedä Naatista mitään kun hän joutuu Puutosin metsätyömaille. Me oltiin kesäleirillä 2 kuukautta. Täällä on paljon Suojärveläisiä mis nyt ollaan Suokas Lassi ja Tapanisen sakki</blockquote></p>';
+  
+  let subcontent1 =
+  "<p>Voimme myös kertoa asiasta tarkemmin ja lisää. Klikkaa linkkiä, ja lue kiinnostava kertomus.</p>"+
+  '<span style="font-size:15px;cursor:pointer;align:right" onclick="openNav('+ "'myOverlay1')" + '">&xrarr; Lue lisää</span>'+
+  '<div id="myOverlay1" class="overlay">' +
+    '<a href="javascript:void(0)" class="closebtn" onclick="closeNav('+ "'myOverlay1')" + '">&times;</a>' +
+    '<div class="overlay-content">' +
+    '<div class="row">'+
+    "<p>Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.</p>" +
+        
+        '<div class="column">'+
+        "<p>Veli kulta, veikkoseni, kaunis kasvinkumppalini! Lähe nyt kanssa laulamahan, saa kera sanelemahan yhtehen yhyttyämme, kahta'alta käytyämme! Harvoin yhtehen yhymme, saamme toinen toisihimme näillä raukoilla rajoilla, poloisilla Pohjan mailla.</p>" +  
+  
+        '</div>'+
+        '<div class="column">'+
+        "<p>Lyökämme käsi kätehen, sormet sormien lomahan, lauloaksemme hyviä, parahia pannaksemme, kuulla noien kultaisien, tietä mielitehtoisien, nuorisossa nousevassa, kansassa kasuavassa: noita saamia sanoja, virsiä virittämiä vyöltä vanhan Väinämöisen, alta ahjon Ilmarisen, päästä kalvan Kaukomielen, Joukahaisen jousen tiestä, Pohjan peltojen periltä, Kalevalan kankahilta.</p>" +
+  
+        '</div>'+
+    '</div>'+
+    "<p>Niit' ennen isoni lauloi kirvesvartta vuollessansa; niitä äitini opetti väätessänsä värttinätä, minun lasna lattialla eessä polven pyöriessä, maitopartana pahaisna, piimäsuuna pikkaraisna. Sampo ei puuttunut sanoja eikä Louhi luottehia: vanheni sanoihin sampo, katoi Louhi luottehisin, virsihin Vipunen kuoli, Lemminkäinen leikkilöihin.</p>" +
+    "<p>Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.</p>" +
+    "<p>Veli kulta, veikkoseni, kaunis kasvinkumppalini! Lähe nyt kanssa laulamahan, saa kera sanelemahan yhtehen yhyttyämme, kahta'alta käytyämme! Harvoin yhtehen yhymme, saamme toinen toisihimme näillä raukoilla rajoilla, poloisilla Pohjan mailla.</p>" +  
+    "<p>Lyökämme käsi kätehen, sormet sormien lomahan, lauloaksemme hyviä, parahia pannaksemme, kuulla noien kultaisien, tietä mielitehtoisien, nuorisossa nousevassa, kansassa kasuavassa: noita saamia sanoja, virsiä virittämiä vyöltä vanhan Väinämöisen, alta ahjon Ilmarisen, päästä kalvan Kaukomielen, Joukahaisen jousen tiestä, Pohjan peltojen periltä, Kalevalan kankahilta.</p>" +
+    "<p>Niit' ennen isoni lauloi kirvesvartta vuollessansa; niitä äitini opetti väätessänsä värttinätä, minun lasna lattialla eessä polven pyöriessä, maitopartana pahaisna, piimäsuuna pikkaraisna. Sampo ei puuttunut sanoja eikä Louhi luottehia: vanheni sanoihin sampo, katoi Louhi luottehisin, virsihin Vipunen kuoli, Lemminkäinen leikkilöihin.</p>" +
+    "</div>" +
+  "</div>";
+  
  
   /*  '<div class="container">'+ */
 
@@ -525,7 +537,7 @@ var config = {
       onChapterExit: [],
     },
     {
-      id: "jekaterinburg",
+      id: "tutk_vankeus",
       alignment: "right",
       hidden: false,
       title: "",
@@ -536,7 +548,7 @@ var config = {
       subcontentDiv: subcontent2,
       subImages: true,
       location: {
-        center: [60.57797, 56.87534],
+        center: [33.72889808955676, 60.80000037562344],
         zoom: 8.3,
         pitch: 30.00,
         bearing: 0.00
@@ -552,15 +564,42 @@ var config = {
       ],
     },
     {
-      id: "kamensk",
+      id: "puudosi_1",
+      alignment: "right",
+      hidden: false,
+      title: "",
+      image: "",
+      description: "",
+      chapterDiv: puudosi,
+      subhidden: true,
+      subcontentDiv: "",
+      subImages: false,
+      location: {
+        center: [36.52525295963133, 61.80598450684696],
+        zoom: 8.3,
+        pitch: 30.00,
+        bearing: 0.00
+      },
+      mapAnimation: "flyTo",
+      rotateAnimation: false,
+      callback: "",
+      onChapterEnter: [
+
+      ],
+      onChapterExit: [
+        
+      ],
+    },
+    {
+      id: "pakkotyo",
       alignment: "left",
       hidden: false,
       chapterDiv: divChapter1,
       subhidden: false,
       subcontentDiv: subcontent1,
       location: {
-        center: [61.91977, 56.39993],
-        zoom: 5,
+        center: [32.737099760562465, 61.23637709105766],
+        zoom: 6,
         pitch: 60.00,
         bearing: -20.32
 
